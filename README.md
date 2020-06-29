@@ -1,6 +1,6 @@
 # Fabric Example Mod
 
-This branch contains the initialization script from vim-javacomplete2 plugin. Run `./gradlew -I ./init.gradle classpath` instead.
+This branch contains the gradle initialization script from [vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) plugin. Run `./gradlew -I ./init.gradle classpath` instead.
 
 ## Setup
 
