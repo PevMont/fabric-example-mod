@@ -1,5 +1,7 @@
 # Fabric Example Mod
 
+This branch contains the initialization script from vim-javacomplete2 plugin. Run `./gradlew -I ./init.gradle classpath` instead.
+
 ## Setup
 
 For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
